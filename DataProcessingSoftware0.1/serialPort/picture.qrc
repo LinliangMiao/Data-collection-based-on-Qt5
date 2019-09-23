@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>soft.png</file>
+    </qresource>
+</RCC>

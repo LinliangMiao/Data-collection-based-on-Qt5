@@ -1,0 +1,13 @@
+debug/main.o
+debug/filetrans.o
+debug/mainwindow.o
+debug/share.o
+debug/qextserialport.o
+debug/handledata.o
+debug/qrc_picture.o
+debug/moc_mainwindow.o
+debug/moc_filetrans.o
+debug/moc_win_qextserialport.o
+debug/moc_qextserialport.o
+debug/moc_qextserialbase.o
+debug/moc_handledata.o

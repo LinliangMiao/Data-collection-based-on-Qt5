@@ -1,0 +1,13 @@
+release/main.o
+release/filetrans.o
+release/mainwindow.o
+release/share.o
+release/qextserialport.o
+release/handledata.o
+release/qrc_picture.o
+release/moc_mainwindow.o
+release/moc_filetrans.o
+release/moc_win_qextserialport.o
+release/moc_qextserialport.o
+release/moc_qextserialbase.o
+release/moc_handledata.o
